@@ -1,3 +1,4 @@
+//this code shows how to swap two strings using stack
 #include <iostream>
 #include <stack>
 using namespace std;
