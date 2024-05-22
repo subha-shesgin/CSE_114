@@ -12,7 +12,7 @@ int main()
     stringstream ss(S);
     string eachword;
     list<string>split;
-    while(ss>>eachword){
+    while(ss>>eachword){  //we can use anything and not necessarily "eachword"
         split.push_back(eachword);
 
     }
