@@ -1,3 +1,4 @@
+//this code shows how to seperate each word from a string
 #include<iostream>
 #include<list>
 #include<bits/stdc++.h>
